@@ -1,0 +1,21 @@
+{
+  "name": "cms-api",
+  "version": "0.0.1",
+  "description": "Simple CMS API - Database ELS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Simple",
+    "CMS",
+    "API"
+  ],
+  "author": "Thuc Huynh",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^8.2.0",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
